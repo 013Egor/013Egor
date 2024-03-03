@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wasup! 👋
 
 <!--
 **013Egor/013Egor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
